@@ -1,0 +1,6 @@
+{
+  "name": "HackPilot - AI Hackathon Copilot",
+  "description": "Transform hackathon project ideas into production-ready MVP feature scopes, modern tech stacks, visual system architectures, database ERDs, REST APIs, and hour-by-hour execution plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
